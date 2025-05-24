@@ -21,3 +21,6 @@
 - Created pivot table according to question asked.
 - Make all pivot table into dashboard.
 
+## Dashboard
+![Screenshot 2025-05-24 203609](https://github.com/user-attachments/assets/66646902-423c-42c2-83fe-ae343975bcd4)
+
