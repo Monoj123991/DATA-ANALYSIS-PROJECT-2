@@ -15,3 +15,8 @@
 
 - Dashboard Intraction <a href="https://github.com/Monoj123991/DATA-ANALYSIS-PROJECT-2/blob/main/Screenshot%202025-05-24%20203609.png">View Dashboard</a>
 
+## Process
+- Verify data for any missing values and anomolies,and sort for the same.
+- Make sure data is clean and consistent respect to data types,data format and values used.
+- Created pivot table according to question asked.
+- Make all pivot table into dashboard.
