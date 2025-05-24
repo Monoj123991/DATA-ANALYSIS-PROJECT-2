@@ -24,3 +24,13 @@
 ## Dashboard
 ![Screenshot 2025-05-24 203609](https://github.com/user-attachments/assets/66646902-423c-42c2-83fe-ae343975bcd4)
 
+## Project Insight 
+
+-Sales target achieved 81% difference 19%.
+-Total units sold  ₹33,874, but the target was not achieved difference 9%
+-The states of Maharashtra, Karnataka, and Gujrat are the top 3 product buyers.
+-More than 90% of the products delivered.
+
+
+## Final Conclusion:
+To improve the sales of the Vrinda store, a strategic marketing plan focused on women aged 30-49 residing in Maharasta, Karnataka, and Gujarat should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions.
