@@ -20,3 +20,4 @@
 - Make sure data is clean and consistent respect to data types,data format and values used.
 - Created pivot table according to question asked.
 - Make all pivot table into dashboard.
+
